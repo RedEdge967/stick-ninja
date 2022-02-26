@@ -25,6 +25,13 @@
 - use the stick to get onto the other stages
 - If your stick is too short or too long, you will lose the game
 
+## Gameplay
+
+
+https://user-images.githubusercontent.com/91379432/155825068-defa9420-344c-4d88-bae4-0962b039af8a.mp4
+
+
+
 ## Can I contribute?
 - sure. open an issue, point out errors and what not? wanna fix something yourself? open a PR and I appreciate it.
 
