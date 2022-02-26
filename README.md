@@ -1,5 +1,5 @@
 # Stick Ninja
-- A simple canva ninja game written in html5, css3 and javascript to have some fun in the boring time.
+- A simple canvas ninja game written in html5, css3 and javascript to have some fun in the boring time.
 - This little game can run `online` same as `offline`
 
 <p align="center">
